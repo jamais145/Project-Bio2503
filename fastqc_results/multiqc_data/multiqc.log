@@ -1,0 +1,5 @@
+[2024-06-09 00:23:52,970] multiqc.core.file_search                           [INFO   ]  Search path: /home/bio/project/fastqc_results
+[2024-06-09 00:23:53,270] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 14 reports
+[2024-06-09 00:23:53,446] multiqc.core.write_results                         [INFO   ]  Data        : fastqc_results/multiqc_data
+[2024-06-09 00:23:53,558] multiqc.core.write_results                         [INFO   ]  Report      : fastqc_results/multiqc_report.html
+[2024-06-09 00:23:53,560] multiqc.multiqc                                    [INFO   ]  MultiQC complete

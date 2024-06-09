@@ -1,0 +1,15 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR29282896	/home/bio/project/fastqc_results/SRR29282896_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282900	/home/bio/project/fastqc_results/SRR29282900_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282892	/home/bio/project/fastqc_results/SRR29282892_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282901	/home/bio/project/fastqc_results/SRR29282901_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282890	/home/bio/project/fastqc_results/SRR29282890_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282891	/home/bio/project/fastqc_results/SRR29282891_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282902	/home/bio/project/fastqc_results/SRR29282902_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282898	/home/bio/project/fastqc_results/SRR29282898_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282889	/home/bio/project/fastqc_results/SRR29282889_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282895	/home/bio/project/fastqc_results/SRR29282895_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282897	/home/bio/project/fastqc_results/SRR29282897_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282893	/home/bio/project/fastqc_results/SRR29282893_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282899	/home/bio/project/fastqc_results/SRR29282899_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR29282894	/home/bio/project/fastqc_results/SRR29282894_fastqc/fastqc_data.txt
